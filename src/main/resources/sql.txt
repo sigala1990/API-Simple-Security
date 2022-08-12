@@ -1,0 +1,30 @@
+use heroku_0c478a03fef4b89;
+
+drop table if exists usuario;
+drop table if exists persona;
+
+create table usuario(
+	id int auto_increment primary key,
+    username varchar(60),
+    password varchar(60),
+    rol varchar(20)
+);
+
+create table persona(
+	id int auto_increment primary key,
+    nombre varchar(100),
+    apellido varchar(100),
+    direccion varchar(100),
+    fecha_nacimiento date,
+    fecha_creacion_registro datetime,
+    fk_usuario int,
+    foreign key (fk_usuario) references usuario (id)
+);
+
+insert into usuario(username,password,rol) value ('adri','$10$YlDsMQykE7YmGCtQVMQ2UeJPO5taVt6nskXLIeC4fWWO18OVOhIxO','ADMIN');
+insert into usuario(username,password,rol) value ('user','$10$YlDsMQykE7YmGCtQVMQ2UeJPO5taVt6nskXLIeC4fWWO18OVOhIxO','USER');
+insert into usuario(username,password,rol) value ('guess','$10$YlDsMQykE7YmGCtQVMQ2UeJPO5taVt6nskXLIeC4fWWO18OVOhIxO','guess');
+
+insert into persona(nombre,apellido,direccion,fecha_nacimiento, fecha_creacion_registro, fk_usuario) value 
+('Aida','Qtal','C/Piruleta','1986-12-27','2022-08-12 11:28:13',11),
+('Franki','Espartaca','C/Vital','1992-11-05','2022-08-12 11:28:13',1);
