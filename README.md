@@ -26,6 +26,8 @@ Constants.java
 
 WebSecurity.java
 
+![imagen](https://user-images.githubusercontent.com/9555509/184476787-178513ba-47de-4694-9068-b1b600472d17.png)
+
 
 <h1>Dependencys</h1>
 <h3>JWT</h3>
