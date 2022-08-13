@@ -75,6 +75,9 @@ WebSecurity.java
   
   ![imagen](https://user-images.githubusercontent.com/9555509/184477458-52daae76-a235-4a8d-889f-b7a123f88462.png)
 
+  <h1>Encriptar la password</h1>
+  
+  ![imagen](https://user-images.githubusercontent.com/9555509/184478099-43971d1d-a05d-4b5e-8b43-008736798457.png)
 
 
 
