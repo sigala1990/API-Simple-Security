@@ -52,6 +52,14 @@ WebSecurity.java
   
   ![imagen](https://user-images.githubusercontent.com/9555509/184477056-8eac2591-89fc-4c3f-9dbc-f7650bf82e9f.png)
 
+  <h3>Ej:</h3>
+  
+  ![imagen](https://user-images.githubusercontent.com/9555509/184477144-231a8bd5-1c04-4a2f-ac86-c57e604f8a0e.png)
+  
+  <h3> Relaciones ORM </h3>
+  
+  ![imagen](https://user-images.githubusercontent.com/9555509/184477458-52daae76-a235-4a8d-889f-b7a123f88462.png)
+
 
 
 
