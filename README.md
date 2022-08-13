@@ -6,6 +6,8 @@ Estructura basica de API con seguridad
 
 Data.sql
 
+![imagen](https://user-images.githubusercontent.com/9555509/184476618-17a5a84e-7c02-4ef8-8526-47819c0c37f0.png)
+
 ![image](https://user-images.githubusercontent.com/9555509/184331781-c749eee1-b563-420f-b164-8721693c9661.png)
 
 Propierties
