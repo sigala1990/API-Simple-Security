@@ -3,10 +3,6 @@
 Estructura basica de API con seguridad
 
 <h1>SQL</h1>
-<h1>Swagger</h1>
-<h1>Dependencys</h1>
-
-<h1>SQL</h1>
 
 Data.sql
 
