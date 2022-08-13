@@ -41,4 +41,17 @@ WebSecurity.java
 <h3>Swagger<h3>
   
 ![image](https://user-images.githubusercontent.com/9555509/184332603-82892ce0-06ff-46d8-b7cc-32e3171d19e4.png)
+  
+  <h1>Metodo para coger el rol?</h1>
+  
+  ![imagen](https://user-images.githubusercontent.com/9555509/184476965-eb04864b-fdec-4096-b276-2a48c9eddc7d.png)
+  
+  <h1>FechType.LAZY y FechType.EAGER</h1>
+  
+  ![imagen](https://user-images.githubusercontent.com/9555509/184477047-7d2529ef-c97a-4a16-9b9d-ac907e7359b4.png)
+  
+  ![imagen](https://user-images.githubusercontent.com/9555509/184477056-8eac2591-89fc-4c3f-9dbc-f7650bf82e9f.png)
+
+
+
 
