@@ -4,7 +4,7 @@ Estructura basica de API con seguridad
 
 INDEX 
 
-![imagen](https://user-images.githubusercontent.com/9555509/184477755-80c7d6de-9abf-4244-b869-96af8c968f3b.png)
+![imagen](https://user-images.githubusercontent.com/9555509/184477761-cf894b0d-8e3a-4fe7-af28-b47e5c3cdf1f.png)
 
 
 <h1>SQL</h1>
