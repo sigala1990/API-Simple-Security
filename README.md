@@ -4,7 +4,7 @@ Estructura basica de API con seguridad
 
 <h1>SQL</h1>
 
-Data.sql
+sql.txt
 
 ![imagen](https://user-images.githubusercontent.com/9555509/184476618-17a5a84e-7c02-4ef8-8526-47819c0c37f0.png)
 
