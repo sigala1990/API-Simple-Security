@@ -20,6 +20,13 @@ http://localhost:8181/swagger-ui/index.html#/
 
 ![image](https://user-images.githubusercontent.com/9555509/184329876-fbce4303-2b63-4d53-b6a8-f763204a2dc0.png)
 
+Constants.java
+
+![imagen](https://user-images.githubusercontent.com/9555509/184476725-97fbe93f-71e5-417d-a01b-152f9d46441e.png)
+
+WebSecurity.java
+
+
 <h1>Dependencys</h1>
 <h3>JWT</h3>
 
