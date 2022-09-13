@@ -37,19 +37,23 @@ public class Persona {
 	@JoinColumn(name="fk_usuario")
 	private Usuario id_usuario;
 
+	@ManyToOne
+	@JoinColumn(name="fk_prov")
+	private Provincia id_prov;
+	
 	public Persona() {
 	}
 
-	public Persona(int id, String nombre, String apellido, String direccion, Date fecha_nacimiento,
-			Date fecha_creacion_registro, Usuario id_usuario) {
-		this.id = id;
-		this.nombre = nombre;
-		this.apellido = apellido;
-		this.direccion = direccion;
-		this.fecha_nacimiento = fecha_nacimiento;
-		this.fecha_creacion_registro = fecha_creacion_registro;
-		this.id_usuario = id_usuario;
+
+	public Provincia getId_prov() {
+		return id_prov;
 	}
+
+	public void setId_prov(Provincia id_prov) {
+		this.id_prov = id_prov;
+	}
+
+
 
 	public int getId() {
 		return id;
