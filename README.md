@@ -11,11 +11,14 @@ INDEX
 
 sql.txt
 
+
 ![imagen](https://user-images.githubusercontent.com/9555509/184476618-17a5a84e-7c02-4ef8-8526-47819c0c37f0.png)
 
 ![image](https://user-images.githubusercontent.com/9555509/184331781-c749eee1-b563-420f-b164-8721693c9661.png)
 
-Propierties
+application.propierties
+
+FALTA QUE SE PONGA UNA DIRECCION/CREDENCIALES DE UNA BD EXISTENTE EN application.propierties
 
 ![image](https://user-images.githubusercontent.com/9555509/184332137-6f48f318-e39a-43a7-bed0-4b6e78a34339.png)
 
@@ -71,6 +74,38 @@ WebSecurity.java
   <h1> Relaciones ORM </h1>
   
   ![imagen](https://user-images.githubusercontent.com/9555509/184477458-52daae76-a235-4a8d-889f-b7a123f88462.png)
+
+  <h1>Encriptar la password</h1>
+  
+  ApiSimpleSecurityApplication.java
+  
+  ![imagen](https://user-images.githubusercontent.com/9555509/184478099-43971d1d-a05d-4b5e-8b43-008736798457.png)
+  
+  <h1> Consultas SQL </h1> 
+  
+  <h3>IProvinciaDAO.java</h3>
+  
+  Select de un objeto.
+  
+  ![image](https://user-images.githubusercontent.com/9555509/189882251-633e4ea8-f0bb-45fd-af52-de426bea3648.png)
+  
+  ![image](https://user-images.githubusercontent.com/9555509/189882389-93aa5c05-99d4-4e01-869c-2b5b03c0443f.png)
+  
+  Select de una parte del objeto.
+  
+  ![image](https://user-images.githubusercontent.com/9555509/189882525-1f80b8eb-7643-4d94-a1f2-4f102e8cbf7d.png)
+  
+  ![image](https://user-images.githubusercontent.com/9555509/189882475-c2eaf63d-baed-4afb-8f53-512ea5e49102.png)
+
+  <h2> Query con PARAM </h2>
+
+  ![image](https://user-images.githubusercontent.com/9555509/189883973-13b4a84f-7b32-4496-b720-d4f42a52a263.png)
+
+  ![image](https://user-images.githubusercontent.com/9555509/189884295-fb187d8b-2b39-4ab2-ad5e-b76e2a3e5c99.png)
+
+
+
+
 
 
 
