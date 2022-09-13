@@ -83,7 +83,7 @@ WebSecurity.java
   
   <h1> Consultas SQL </h1> 
   
-  IProvinciaDAO.java
+  <h3>IProvinciaDAO.java</h3>
   
   Select de un objeto.
   
@@ -97,6 +97,9 @@ WebSecurity.java
   
   ![image](https://user-images.githubusercontent.com/9555509/189882475-c2eaf63d-baed-4afb-8f53-512ea5e49102.png)
 
+  <h2> Query con PARAM </h2>
+
+  ![image](https://user-images.githubusercontent.com/9555509/189883973-13b4a84f-7b32-4496-b720-d4f42a52a263.png)
 
 
 
