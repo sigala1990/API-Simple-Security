@@ -72,7 +72,8 @@ public class PersonaController {
 	}
 	
 	@DeleteMapping("/persona/{id}")
-	@PreAuthorize("hasAnyAuthority('ADMIN','USER')")
+	@PreAuthorize("hasAnyAuthority('ADMIN')")
+	//@PreAuthorize("hasAnyAuthority('ADMIN','USER')")
 	public void eleiminarPersona(@PathVariable(name="id")Integer id) {
 		personaServiceImpl.eliminarPersona(id);
 	}
